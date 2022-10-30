@@ -1,30 +1,29 @@
 # Summary-Machine-learning-algorithms
 Here are some machine learning algorithms that crucial for my study and application in diferent scenarios
-# linear regression
 
 
-# logistic regression
+## linear regression
+           
+
+## logistic regression
 
 
-# Bayes
+## Bayes
 
 
-# decision tree
+## decision tree
 
 
-# ensemble learning
+## ensemble learning
 
 
-# svm
+## svm
 
 
-# k-means
+## k-means
 
 
-# LDA
+## PCA
 
 
-# PCA
-
-
-# HMM
+## HMM
